@@ -9,4 +9,4 @@ This simple program demonstrate the TTS (Text to speech) in java.
 
 ## For Demonstration, click the image : 
 
-[![Everything Is AWESOME](http://purvispublicsafety.com/wp-content/uploads/2014/12/text-to-speech.jpg)](https://https://youtu.be/ANmry705wUg "TTS in java")
+[![Everything Is AWESOME](http://purvispublicsafety.com/wp-content/uploads/2014/12/text-to-speech.jpg)](https://youtu.be/ccOzjwyPb8Y "TTS in java")
