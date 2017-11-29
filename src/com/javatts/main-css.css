@@ -1,0 +1,19 @@
+#rootPane {
+
+    -fx-background-color: #303030;
+}
+#textField {
+
+    -fx-text-fill: white;
+}
+#speakButton:hover {
+
+    -fx-background-color: rgb(200, 200, 200);
+    -fx-text-fill: black;
+}
+
+#speakButton {
+
+    -fx-background-color: #303030;
+    -fx-text-fill: white;
+}
